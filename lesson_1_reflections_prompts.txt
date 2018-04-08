@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+a bug never appears spontaneously, some change must have happened somewhere.
+Checking the latest functionnal version will help showing what we changed and
+then the potential origin of the bug.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Learning from past errors helps avoiding the future ones.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git,
+vs having versions automatically saved like Google docs does?
+Pro is that I save when I have a consistent number of changes and a version that does work
+Con is that I can forget to save and then lose my work
+
+Why do you think some version controls systems, like Git, allow saving multiples files in one commit,
+while others, like Google docs, treat each file separately?
+When writing code, the code may require several files to function efficiently
+When creating texts, presentation or charts, each file is autonomous
+
+How can I use the commands git log and git diff to view history of files?
+git log --stat => gives the list of commits ID with date, author and comments for each
+git diff commit1 commit2 => compares the files that have been changed between two commits
+
+How might version control make you more confident to make changes that could break something?
+I know I can always come back to a version that worked
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Continuing my IA training
+
