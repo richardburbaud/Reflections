@@ -5,3 +5,6 @@ It creates a hidden folder containing the metadata to start tracking file modifi
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 It allows to track changes in a file but without creating a commit yet
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can "add" files one at a time before running my commit
