@@ -14,3 +14,6 @@ How would branches help?
 If I want to add an important feature that will not go to prod yet
 I create a branch prepare and test my feature before going to prod
 I can still come back to master if I have an urgent bug to fix
+
+How do the diagrams help you visualize the branch structure?
+I don't know why drawing help understanding things but it does ..
