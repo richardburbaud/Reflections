@@ -17,3 +17,8 @@ I can still come back to master if I have an urgent bug to fix
 
 How do the diagrams help you visualize the branch structure?
 I don't know why drawing help understanding things but it does ..
+
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+When merging, we insert the code created in a branch into the master
+the two branches of codes then get together
