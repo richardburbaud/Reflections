@@ -15,3 +15,10 @@ Branch is a variation of code created to isolate a wip
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Can be useful if we want to understand the changes that have been done
 before merging into what I have done on my side
+
+How would you collaborate without using Git or GitHub?
+What would be easier, and what would be harder?
+Collaborating would be hard without github
+we would overwrite each others work without knowing
+Branching and creating good PR without git would be very difficult
+
