@@ -6,3 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 Some other people may be pushing code to the remote
 If I pull this code automatically this may interact with what I'm writing
 even if I'm not ready
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a copy in github of an online repo, may not exist on my computer
+Clone is a copy of a github repo onto my computer
+Branch is a variation of code created to isolate a wip
